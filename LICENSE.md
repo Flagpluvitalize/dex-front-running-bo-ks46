@@ -1,4 +1,4 @@
-# 
+# elite dex front-running bot | market-making + slippage-control is the best dex front-running bot, featuring market-making and slippage-control. Smart, fast, and optimized for
 
 
 
